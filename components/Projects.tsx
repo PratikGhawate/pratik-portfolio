@@ -18,7 +18,7 @@ function Projects({ }: Props) {
         
         <div className="w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center
         p-20 md:p-44 h-screen">
-          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="http://localhost:3000/images/uberdata.png"  />
+          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="https://github.com/PratikGhawate/pratikghawate/blob/main/public/images/uberdata.png?raw=true"  />
           <div className="space-y-10 px-0 md:px-10 max-w-6xl">
             <h4 className="text-3xl font-semibold text-center">
               <span className="underline decoration-[#000080]">
@@ -36,7 +36,7 @@ function Projects({ }: Props) {
 
         <div className="w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center
         p-20 md:p-44 h-screen">
-          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="http://localhost:3000/images/olist.png" />
+          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="https://github.com/PratikGhawate/pratikghawate/blob/main/public/images/olist.png?raw=true" />
           <div className="space-y-10 px-0 md:px-10 max-w-6xl">
             <h4 className="text-3xl font-semibold text-center">
               <span className="underline decoration-[#000080]">
@@ -55,7 +55,7 @@ function Projects({ }: Props) {
 
         <div className="w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center
         p-20 md:p-44 h-screen">
-          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="http://localhost:3000/images/Machinelearnin.png" />
+          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="https://github.com/PratikGhawate/pratikghawate/blob/main/public/images/Machinelearnin.png?raw=true" />
           <div className="space-y-10 px-0 md:px-10 max-w-6xl">
             <h4 className="text-3xl font-semibold text-center">
               <span className="underline decoration-[#000080]">
@@ -72,7 +72,7 @@ function Projects({ }: Props) {
 
         <div className="w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center
         p-20 md:p-44 h-screen">
-          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="http://localhost:3000/images/airquality.png" />
+          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="https://github.com/PratikGhawate/pratikghawate/blob/main/public/images/airquality.png?raw=true" />
           <div className="space-y-10 px-0 md:px-10 max-w-6xl">
             <h4 className="text-3xl font-semibold text-center">
               <span className="underline decoration-[#000080]">
@@ -87,7 +87,7 @@ function Projects({ }: Props) {
 
         <div className="w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center
         p-20 md:p-44 h-screen">
-          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="http://localhost:3000/images/filecloud.png" />
+          <img className=" flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"  src="https://github.com/PratikGhawate/pratikghawate/blob/main/public/images/filecloud.png?raw=true" />
           <div className="space-y-10 px-0 md:px-10 max-w-6xl">
             <h4 className="text-3xl font-semibold text-center">
               <span className="underline decoration-[#000080]">

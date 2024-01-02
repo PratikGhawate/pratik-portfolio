@@ -12,6 +12,9 @@ import Skills from '../../components/Skills';
 import Projects from  '../../components/Projects';
 import ContactMe from '../../components/ContactMe';
 import Link from 'next/link';
+import Image from 'next/image';
+import { PageInfo } from 'next/dist/build/utils';
+import { getPageStaticInfo } from 'next/dist/build/analysis/get-page-static-info';
 // Define the Home component as a NextPage
 const Home: NextPage = () => {
   return (
@@ -19,7 +22,7 @@ const Home: NextPage = () => {
      overflow-x-hidden z-0 scrollbar scrollbar-track-[#EBEBE1] scrollbar-thumb-[#F7AB0a]/70'> 
       {/* Set the page title using the Head component */}
       <Head>
-        <title>Pratik's Port</title>
+        <title> Pratik Portfolio</title>
       </Head>
 
       <Header />
@@ -50,7 +53,7 @@ const Home: NextPage = () => {
       <footer className='sticky bottom-4 w-full cursor-pointer'>
         <div className='flex items-center justify-center'>
           <img className='h-10 w-10 rounded-full grayscale hover:grayscale-0]'
-          src="http://localhost:3000/images/pratikimage2.png" alt="" />
+          src="https://github.com/PratikGhawate/pratikghawate/blob/main/public/images/pratikimage2.png?raw=true" />
         </div>
       </footer>
       </Link>

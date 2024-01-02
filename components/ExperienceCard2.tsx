@@ -11,7 +11,7 @@ export default function ExperienceCard2({}: Props) {
     cursor-pointer transition-opacity duration-200 overflow-hidden">
         <img
         className= 'w-32 h-32  rounded-full md:rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center'
-        src = 'http://localhost:3000/images/elring.png' alt = ''
+        src = 'https://github.com/PratikGhawate/pratikghawate/blob/main/public/images/elring.png?raw=true' alt = ''
         />
         <div className = 'px-0 md:px-10'>
             <h4 className='text-4xl font-light'>Data Analyst</h4>

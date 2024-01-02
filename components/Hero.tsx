@@ -18,7 +18,7 @@ export default function Hero({}: Props) {
         <div className='h-screen flex flex-col space-y-8 items-center justify-center text-center'>
           <BackgroundCircles />
           <img className= "realative rounded-full h-32 w-32 mx-auto object-cover"
-          src='http://localhost:3000/images/pratikimage.png'   alt='' 
+          src='https://github.com/PratikGhawate/pratikghawate/blob/main/public/images/pratikimage.png?raw=true'   alt='' 
           />
 
 

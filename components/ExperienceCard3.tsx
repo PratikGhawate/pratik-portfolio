@@ -11,7 +11,7 @@ export default function ExperienceCard3({}: Props) {
     cursor-pointer transition-opacity duration-200 overflow-hidden">
         <img
         className= 'w-32 h-32 rounded md:rounded xl:w-[200px] xl:h-[200px] object-cover object-center'
-        src = 'http://localhost:3000/images/sdsu.png' alt = ''
+        src = 'https://github.com/PratikGhawate/pratikghawate/blob/main/public/images/sdsu.png?raw=true' alt = ''
         />
         <div className = 'px-0 md:px-10'>
             <h4 className='text-4xl font-light'>Student Assistant</h4>
