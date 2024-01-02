@@ -32,8 +32,8 @@ export default function ContactMe({}: Props) {
       </h3>
       <div className='flex flex-col space-y-10'>
         <h4 className='text-4xl font-semibold text-center'>
-        I've got just what you need—
-            <span className=' decoration-[#F7AB0A]/40 underline'>Let's talk and make it happen! </span>
+        I&apos;ve got just what you need—
+            <span className=' decoration-[#F7AB0A]/40 underline'>Let&apos;s talk and make it happen! </span>
         </h4>
         <div className='space-y-5'>
             <div className='flex items-center  space-x-5 justify-center'>

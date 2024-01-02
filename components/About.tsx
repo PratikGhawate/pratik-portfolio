@@ -20,9 +20,9 @@ export default function About({}: Props) {
         alt="pratik"
       />
       <div className="space-y-10 px-10 md:px-10">
-        <h4 className="text-4xl font-semibold"> Here's a {" "}<span className='underline decoration-[#F7AB0A]/50'>little</span>{" "} background </h4>
+        <h4 className="text-4xl font-semibold"> Here&apos;s a {" "}<span className='underline decoration-[#F7AB0A]/50'>little</span>{" "} background </h4>
         <p className='text-lg'>
-        Hello there! I’m Pratik Ghawate, a passionate Information Systems enthusiast currently pursuing my Master's at San Diego State University. I thrive on diving into data analysis and machine learning adventures, drawing from real-world experiences at ElringKlinger and SDSU. My toolbox is filled with skills in Python, R, SQL and Business Intelligence tools. Whether it's crafting ETL pipelines, segmenting customers, or achieving precision in cancer diagnosis with advanced ML models, I’m all in! I'm also quite comfy with cloud tech, big data tools, and databases. I love solving problems proactively, aiming to weave innovative solutions through technology and data insights.        </p>
+        Hello there! I am Pratik Ghawate, a passionate Information Systems enthusiast currently pursuing my Master&apos;s at San Diego State University. I thrive on diving into data analysis and machine learning adventures, drawing from real-world experiences at ElringKlinger and SDSU. My toolbox is filled with skills in Python, R, SQL and Business Intelligence tools. Whether it&apos;s crafting ETL pipelines, segmenting customers, or achieving precision in cancer diagnosis with advanced ML models, I am all in! I&apos;m also quite comfy with cloud tech, big data tools, and databases. I love solving problems proactively, aiming to weave innovative solutions through technology and data insights.        </p>
 
       </div>
     </motion.div>

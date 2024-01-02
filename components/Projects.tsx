@@ -26,7 +26,7 @@ function Projects({ }: Props) {
                 </Link>
               </span>
               <p className="text-xl text-center md:text-left p-5 font-normal style='color: #333333'">
-              The Uber ETL pipeline data engineering project employs a diverse tech stack including GCP Storage, Python, Mage Data Pipeline Tool, BigQuery, and Looker Studio to analyze Uber's extensive dataset. Extracting data to GCP Storage initiates the process, followed by Python-driven transformations for cleaning and structuring. BigQuery facilitates robust analytics, while Looker Studio visualizes insights via interactive dashboards. The Mage Data Pipeline Tool orchestrates the ETL process, ensuring integrity and scalability, ultimately empowering Uber's decision-makers with actionable insights for informed strategic decisions.
+              The Uber ETL pipeline data engineering project employs a diverse tech stack including GCP Storage, Python, Mage Data Pipeline Tool, BigQuery, and Looker Studio to analyze Uber&apos;s extensive dataset. Extracting data to GCP Storage initiates the process, followed by Python-driven transformations for cleaning and structuring. BigQuery facilitates robust analytics, while Looker Studio visualizes insights via interactive dashboards. The Mage Data Pipeline Tool orchestrates the ETL process, ensuring integrity and scalability, ultimately empowering Uber&apos;s decision-makers with actionable insights for informed strategic decisions.
               </p>
             </h4>
           </div>

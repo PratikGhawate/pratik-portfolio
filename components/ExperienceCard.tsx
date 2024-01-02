@@ -37,8 +37,7 @@ export default function ExperienceCard({}: Props) {
                 <li>Developed and implemented automated data collection system for secondhand Luxury bags by scraping and storing data on S3 using a daily Cron Job.</li>
                 <li>Implemented Amazon S3 storage for seamless, scalable data management, facilitating efficient analysis using Pandas and Excel.</li>
                 <li>Developed a scratch and pale color YOLO detection model on luxury handbags with 80% identification accuracy.</li>
-                <li>Leveraged advanced regression methodologies, including the Random Forest Regression model, to estimate handbag sales
-potential by using variables such as bag popularity, seller's ethnicity, seller's rating, and handbag quality.</li>
+                <li>Leveraged advanced regression methodologies, such as the Random Forest Regression model, to estimate handbag sales potential. This involved analyzing variables like bag popularity, seller&apos;s ethnicity, seller&apos;s rating, and handbag quality.</li>
                
 
           
